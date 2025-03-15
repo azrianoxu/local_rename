@@ -1,0 +1,25 @@
+{
+  "recent_directories": [
+    "X:/Friendly.Rivalry.S01.1080p.friDay.WEB-DL.AAC2.0.H.264-CHDWEB"
+  ],
+  "default_mode": "extract",
+  "video_extensions": [
+    ".mp4",
+    ".mkv",
+    ".avi",
+    ".mov",
+    ".wmv",
+    ".flv",
+    ".webm",
+    ".m4v"
+  ],
+  "max_recent_dirs": 10,
+  "window_size": [
+    1267,
+    821
+  ],
+  "splitter_position": [
+    415,
+    830
+  ]
+}
